@@ -1,5 +1,7 @@
 # 三路塔防 · Tri-lane Tower Defense
 
+**▶ 在线试玩：https://lin37-c.github.io/tri-lane-tower-defense/**
+
 三条路、四种塔、24 波的塔防原型。固定预算布防，塔按第 4 / 9 / 14 波依次解锁。
 
 单文件网页，浏览器直接打开即玩，不需要构建、不需要依赖。
